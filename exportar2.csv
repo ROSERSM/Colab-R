@@ -1,0 +1,59 @@
+NO_TABELA_CARGA;CO_PERIODICIDADE
+tagtbi14_esttaetco;* 0 0 * * ?
+tagtbi08_acmdoetco;* 0 0 * * ?
+tagtbi07_remessapv;* 0 0 * * ?
+decint001_conta;0 0 0 ? * 2-6 *
+decint004_conta_cliente;0 0 0 ? * 2-6 *
+decint005_marca;0 0 0 ? * 2-6 *
+decint008_inadimplencia;0 0 0 ? * 2-6 *
+decint011_conta_produto_periodo;0 0 0 ? * 2-6 *
+tagtbi15_esttaenvo;* 0 0 * * ?
+tagtbi14_esttaetco;* 0 0 * * ?
+tagtbi04_prcnodro;* 0 0 * * ?
+decint007_operacao_credito;0 0 0 ? * 2-6 *
+tagxtb03etapa;* 0 0 * * ?
+tagxtb02fase;* 0 0 * * ?
+tagtbi11_mensagem;* 0 0 * * ?
+tagtbi04_prcnodro;* 0 0 * * ?
+tagtbi21_batimento_cheque;* 0 0 * * ?
+tagxtb02fase;* 0 0 * * ?
+decint007_operacao_credito;0 0 0 ? * 2-6 *
+decint012_tdcl;0 0 0 ? * 2-6 *
+decint011_conta_produto_periodo;0 0 0 ? * 2-6 *
+tagtbi18_acmdoenvo;* 0 0 * * ?
+tagtbi12_etcofrmto;* 0 0 * * ?
+tagtbi06_espcletco;* 0 0 * * ?
+decint005_marca;0 0 0 ? * 2-6 *
+decint006_conta_marca;0 0 0 ? * 2-6 *
+decint001_conta;0 0 0 ? * 2-6 *
+tagxtb01saldo;* 0 0 * * ?
+tagtbi08_acmdoetco;* 0 0 * * ?
+tagtbi05_rgstormsa;* 0 0 * * ?
+tagtbi22_grupo_unidade;* 0 0 * * ?
+tagtbi13_acmdoetco;* 0 0 * * ?
+decint004_conta_cliente;0 0 0 ? * 2-6 *
+decint009_movimento;0 0 0 ? * 2-6 *
+tagtbi09_esttapv;* 0 0 * * ?
+tagtbi20_btmno_mvmto_acumulado;* 0 0 * * ?
+tagxtb03etapa;* 0 0 * * ?
+tagxtb01saldo;* 0 0 * * ?
+tagtbi18_acmdoenvo;* 0 0 * * ?
+tagtbi15_esttaenvo;* 0 0 * * ?
+tagtbi11_mensagem;* 0 0 * * ?
+tagtbi09_esttapv;* 0 0 * * ?
+tagtbi05_rgstormsa;* 0 0 * * ?
+decint010_conta_informacao_periodo;0 0 0 ? * 2-6 *
+tagtbi19_prmto_margem_prcnl;* 0 0 * * ?
+tagtbi12_etcofrmto;* 0 0 * * ?
+decint009_movimento;0 0 0 ? * 2-6 *
+decint012_tdcl;0 0 0 ? * 2-6 *
+tagtbi10_prcsocnlo;* 0 0 * * ?
+tagtbi07_remessapv;* 0 0 * * ?
+tagtbi10_prcsocnlo;* 0 0 * * ?
+tagtbi06_espcletco;* 0 0 * * ?
+decint006_conta_marca;0 0 0 ? * 2-6 *
+decint010_conta_informacao_periodo;0 0 0 ? * 2-6 *
+decint008_inadimplencia;0 0 0 ? * 2-6 *
+decint002_cheque_posse_cliente;0 0 0 ? * 2-6 *
+decint002_cheque_posse_cliente;0 0 0 ? * 2-6 *
+tagtbi13_acmdoetco;* 0 0 * * ?
